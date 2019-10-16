@@ -10,6 +10,7 @@ PiBM - a parametric retro computer and arcade cabinet made in openscad
 * drill
 * long screwdriver
 * lazer cutter CNC (or perfect routing skills lol)
+* 3d printer
 
 *Making*
 1. edit variables in the beginning of assembly.scad file to meet your monitor and keyboard sizes and other parameters
