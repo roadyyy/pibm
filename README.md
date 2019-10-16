@@ -1,5 +1,5 @@
 # pibm
-PiBM - a parametric retro computer and arcade cabinet madi in openscad
+PiBM - a parametric retro computer and arcade cabinet made in openscad
 
 *Materials and tools*
 
